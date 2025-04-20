@@ -24,4 +24,13 @@ A full-stack web app to track books you’ve read, take notes, rate them, and vi
 - dotenv for environment variables
 
 ---
+step 1: npm install
+step2: npm start
+SCREEN RECORDING OF THE WEBSITE:
+
+
+
+
+
+https://github.com/user-attachments/assets/518f7c01-134b-4d75-8443-a8b30f838c58
 
