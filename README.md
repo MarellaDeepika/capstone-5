@@ -25,9 +25,3 @@ A full-stack web app to track books you’ve read, take notes, rate them, and vi
 
 ---
 
-ps://github.com/legendnassi/book-notes-app.git
-   cd book-notes-app
-   [book-notes-app screenshot]
-   ![Screenshot 2025-04-19 213352](https://github.com/user-attachments/assets/94af3d9c-86b2-4e0c-b71a-5049baba09b5)
-
-![Screenshot 2025-04-19 213434](https://github.com/user-attachments/assets/1ecf0a40-2e67-4db6-9060-335f6619f6f2)
